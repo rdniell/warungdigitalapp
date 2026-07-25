@@ -12,7 +12,10 @@
 
 | Login Screen | Katalog Screen | Keranjang Screen |
 |:---:|:---:|:---:|
-| ![Login](assets/screenshots/login.png) | ![Katalog](assets/screenshots/katalog.png) | ![Keranjang](assets/screenshots/keranjang.png) |
+| !<img width="720" height="1600" alt="login" src="https://github.com/user-attachments/assets/a1ed9fa4-75cd-4f3e-adf6-95075d42ad4e" />
+) | !<img width="720" height="1600" alt="katalog" src="https://github.com/user-attachments/assets/51d50b0c-0822-437f-b893-846e71002abc" />
+ | !<img width="720" height="1600" alt="keranjang" src="https://github.com/user-attachments/assets/e7dee0dc-f9b1-49e2-b9f6-7f46f9fab85e" />
+ |
 
 ---
 
@@ -95,6 +98,6 @@ Scan QR Code dengan Expo Go di HP.
 
 ## 👤 Developer
 
-**Nama Lengkap** | NIM | Kelas
+**Revael Daniel** | 243303621203 | 4 Pagi A
 Universitas Prima Indonesia — Prodi Sistem Informasi
 Mata Kuliah: Pemrograman Mobile (TI-MOBILE-01)
