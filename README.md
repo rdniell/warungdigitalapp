@@ -10,16 +10,17 @@
 
 ## 📸 Screenshots
 
-| Login Screen | 
-| <img width="720" height="1600" alt="login" src="https://github.com/user-attachments/assets/a1ed9fa4-75cd-4f3e-adf6-95075d42ad4e" />
+
+| Login Screen 
+<img width="720" height="1600" alt="login" src="https://github.com/user-attachments/assets/a1ed9fa4-75cd-4f3e-adf6-95075d42ad4e" />
 
 
-|Katalog Screen |
-|<img width="720" height="1600" alt="katalog" src="https://github.com/user-attachments/assets/51d50b0c-0822-437f-b893-846e71002abc" />
+|Katalog Screen 
+<img width="720" height="1600" alt="katalog" src="https://github.com/user-attachments/assets/51d50b0c-0822-437f-b893-846e71002abc" />
 
 
-| Keranjang Screen |
-|<img width="720" height="1600" alt="keranjang" src="https://github.com/user-attachments/assets/e7dee0dc-f9b1-49e2-b9f6-7f46f9fab85e" />
+|Keranjang Screen 
+<img width="720" height="1600" alt="keranjang" src="https://github.com/user-attachments/assets/e7dee0dc-f9b1-49e2-b9f6-7f46f9fab85e" />
 
 
 ---
