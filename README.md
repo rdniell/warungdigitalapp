@@ -101,7 +101,7 @@ Scan QR Code dengan Expo Go di HP.
 
 ## 🌐 Expo Snack
 
-[Buka di Expo Snack](LINK_EXPO_SNACK)
+[Buka di Expo Snack](https://snack.expo.dev/@niell77/warungdigital-app)
 
 ---
 
