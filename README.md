@@ -95,7 +95,7 @@ Scan QR Code dengan Expo Go di HP.
 
 ## 📦 Download APK
 
-[Download APK terbaru](LINK_APK_GITHUB_RELEASE_ATAU_DRIVE)
+[Download APK terbaru](application-67178da4-d873-4be6-a649-0a37e33099c7.apk)
 
 ---
 
