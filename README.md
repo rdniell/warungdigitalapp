@@ -1,10 +1,10 @@
-# WarungDigitalApp — Domain: Warung Digital
+# KiosKu — Domain: Warung Digital
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
 ![AsyncStorage](https://img.shields.io/badge/AsyncStorage-Local_Persistence-00b894)
 
-> WarungDigitalApp adalah aplikasi kasir & katalog produk untuk UMKM warung. Pemilik warung bisa mengelola katalog produk lengkap dengan foto, menerima pesanan lewat keranjang belanja, dan melihat riwayat transaksi — semua tersimpan secara lokal di perangkat.
+> KiosKu adalah aplikasi kasir & katalog produk untuk UMKM warung. Pemilik warung bisa mengelola katalog produk lengkap dengan foto, menerima pesanan lewat keranjang belanja, dan melihat riwayat transaksi — semua tersimpan secara lokal di perangkat.
 
 ---
 
@@ -56,7 +56,7 @@
 ## 📁 Struktur Folder
 
 ```
-WarungDigitalApp/
+KiosKu/
 ├── App.js
 ├── app.json
 ├── eas.json
