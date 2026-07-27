@@ -108,5 +108,6 @@ Scan QR Code dengan Expo Go di HP.
 ## 👤 Developer
 
 **Revael Daniel** | 243303621203 | 4 Pagi A
-Universitas Prima Indonesia — Prodi Sistem Informasi
-Mata Kuliah: Pemrograman Mobile (TI-MOBILE-01)
+
+- Universitas Prima Indonesia — Prodi Sistem Informasi
+- Mata Kuliah: Pemrograman Mobile (TI-MOBILE-01)
